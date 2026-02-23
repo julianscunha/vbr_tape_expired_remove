@@ -1,4 +1,4 @@
-# Veeam VBR Tape Expired Remove
+# Veeam VBR Tape Expired Control
 This script help to unprotect the expired tapes and remove from inventory after confirmed.
 It's recommended to use on VTL environments when you need to remove old tapes.
 
